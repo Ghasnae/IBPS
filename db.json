@@ -1,0 +1,14 @@
+{
+  "listFiltre": [
+    {
+      "nom": "Mort",
+      "id_button": "5",
+      "id": 1
+    },
+    {
+      "nom": "Souffrance",
+      "id_button": "6",
+      "id": 2
+    }
+  ]
+}
